@@ -1,2 +1,3 @@
-# FixvCenterVMsNUMA
-Fix the vCenters NUMA VMs
+# Random VMware Powershell Scripts
+
+Random Scripts for vCenter
